@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Driven Trust Score Management for Blockchain Nodes Using Machine Learning
 
 ## 📌 Overview
@@ -69,7 +68,6 @@ Smart contracts are used to:
 5. Network uses trust score for validation and decision-making  
 
 ---
-=======
 🛡️ AI-Driven Trust Score Management for Blockchain Nodes Using Machine Learning
 Intelligent Trust Evaluation • Machine Learning • Blockchain • Smart Contracts
 📌 Overview
@@ -346,10 +344,4 @@ This work contributes:
 👨‍💻 Author
 
 Harjas Suneja
-Department of Computer Science & Engineering (AI & ML)
-VIT Chennai
 
-📜 License
-
-MIT License
->>>>>>> 47cdb77 (updated readme)
